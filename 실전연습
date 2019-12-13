@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="utf-8">
+    <title>BYU-RI S.T</title>
+
+    <style>
+    h1{text-align: center;
+  color: navy;
+}
+strong {text-align: center;
+color: pink
+}
+div {border-bottom: 3px solid yellow;
+padding: 15px;}
+
+
+    </style>
+
+
+  </head>
+  <body>
+
+    <h1><a href="https://blog.naver.com/aldmswjdgl" target="_blank" title="Baengshop"style=text-decoration:underline> BYU-RI STORE </a></h1>
+    <p>
+    <img src="벼리상점1.jpg" width="200px"; >
+    </p>
+    <div><li><strong style=font-size:25px> Handmade earring store </strong><li></div>
+
+    <li> unique earring </li>
+    <li> Daily earring</li>
+    <li> No allerge</li>
+
+
+      <input type ="button" onclick="alert('not ready to yet')" value="bying"
+<br>
+
+
+  </body>
+</html>
